@@ -2,7 +2,7 @@ USE [Karthik]
 GO
 
 /****** Object:  UserDefinedFunction [dbo].[YearCalendar]    Script Date: 6/21/2018 7:17:05 PM ******/
-/*** Usa
+/*** Usage: dbo.YearCalendar('YYYY') ****/
 SET ANSI_NULLS ON
 GO
 
